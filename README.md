@@ -1,1 +1,1 @@
-# iptables-block
+# iptables-block all country only allow vietnam
